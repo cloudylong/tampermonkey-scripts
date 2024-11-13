@@ -2,7 +2,7 @@
 // @name         面试鸭允许选择文本
 // @namespace    https://github.com/cloudylong/
 // @version      1.0
-// @description  面试鸭允许选择文本
+// @description  允许用户选择文本
 // @author       Walter
 // @match        https://www.mianshiya.com/*
 // @icon         https://www.mianshiya.com/favicon.ico
