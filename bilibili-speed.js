@@ -20,7 +20,6 @@
     );
     if (rate_2) {
       // 移除定时器
-      console.log("hahahhaha");
       clearInterval(intervalID);
 
       // 动态生成3倍速选项
