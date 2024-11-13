@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         面试鸭允许选择文本
+// @name         面试鸭
 // @namespace    https://github.com/cloudylong/
 // @version      1.0
 // @description  允许用户选择文本
