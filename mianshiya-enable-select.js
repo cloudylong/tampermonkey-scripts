@@ -6,16 +6,17 @@
 // @author       Walter
 // @match        https://www.mianshiya.com/*
 // @icon         https://www.mianshiya.com/favicon.ico
-// @grant        none
+// @grant        GM_addStyle
 // ==/UserScript==
+
+GM_addStyle(`
+    /* 解除禁选文本 */
+    body {
+        user-select: initial !important;
+    }
+`);
 
 (function () {
   "use strict";
 
-  const intervalID = setInterval(() => {
-    if (document.body.style.userSelect == "none") {
-      document.body.style.userSelect = "text"
-      clearInterval(intervalID);
-    }
-  }, 1000);
 })();
