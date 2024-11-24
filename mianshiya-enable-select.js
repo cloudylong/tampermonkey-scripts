@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         面试鸭
 // @namespace    https://github.com/cloudylong/
-// @version      1.0
+// @version      1.1
 // @description  允许用户选择文本
 // @author       Walter
 // @match        https://www.mianshiya.com/*
